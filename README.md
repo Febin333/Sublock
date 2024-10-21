@@ -6,7 +6,7 @@ Features
      Fetches subdomains from the crt.sh certificate transparency log database.
      Filters out invalid subdomains using DNS resolution.
      Checks and displays the HTTP status code for each valid subdomain.
-     Colored output: Displays successful status codes (2xx) in green.
+    
 
 
 # Requirements
