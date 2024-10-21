@@ -1,6 +1,6 @@
 # Sublock
 A Python-based tool to discover subdomains for a given domain using crt.sh certificate transparency logs and check their HTTP status codes. The tool filters subdomains based on valid DNS records and displays the HTTP response status for each.
-Features
+
 ![sublock](https://github.com/user-attachments/assets/d6631915-0311-4ef3-a37d-f61d14383a0c)
 
      Fetches subdomains from the crt.sh certificate transparency log database.
